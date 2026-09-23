@@ -31,3 +31,4 @@ C:\Users\brand\OneDrive\Desktop\CSA Combine\Challenges\Challenge_4_Video_Game_CR
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Challenges\Challenge_4_Video_Game_CRUD_API\obj\Debug\net10.0\Challenge_4_Video_Game_CRUD_API.pdb
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Challenges\Challenge_4_Video_Game_CRUD_API\obj\Debug\net10.0\Challenge_4_Video_Game_CRUD_API.genruntimeconfig.cache
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Challenges\Challenge_4_Video_Game_CRUD_API\obj\Debug\net10.0\ref\Challenge_4_Video_Game_CRUD_API.dll
+C:\Users\brand\OneDrive\Desktop\CSA Combine\Challenges\Challenge_4_Video_Game_CRUD_API\obj\Debug\net10.0\Challenge_4_Video_Game_CRUD_API.sourcelink.json
