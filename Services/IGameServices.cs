@@ -12,7 +12,7 @@ namespace Challenge_4_Video_Game_CRUD_API.Services
 
         GameItem Create(GameItem game);
 
-        bool GetByIsAvailable(int id);
+        List<GameItem> GetByIsAvailable();
 
         bool Update(int id, GameItem game);
 

@@ -52,18 +52,12 @@ public GameController(IGameServices inventory)
 
         [HttpGet("GetByAvailable")]
 
-        public ActionResult<GameItem> GetByAvailable(string name)
+        public ActionResult<List<GameItem>> GetByAvailable()
         {
-            bool gameIsAvailable = _inventory.GetByIsAvailable;
-            {
-                if(gameIsAvailable == false)
-                {
-                    return NotFound($"Sorry the game {name} is not available");
-                }
+            List<GameItem> gameIsAvailable = _inventory.GetByIsAvailable();
+                
 
                 return Ok(gameIsAvailable);
-
-            }
         }
 
         [HttpPost("Create")]

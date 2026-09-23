@@ -106,16 +106,12 @@ namespace Challenge_4_Video_Game_CRUD_API.Services
         }
 
 
-        public bool GetByIsAvailable(int id)
+        public List<GameItem> GetByIsAvailable()
         {
-            GameItem? IsAvailable = _inventory.FirstOrDefault(i => i.Id == id);
+            IEnumerable<GameItem>? IsAvailable = _inventory.Where(i => i.IsAvailable == true);
 
-            if (IsAvailable == false)
-            {
-                return false;
-            }
 
-            return true;
+            return IsAvailable.ToList() ;
         }
 
 
