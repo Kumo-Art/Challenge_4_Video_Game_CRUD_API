@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Challenge_4_Video_Game_CRUD_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd01f78bbe7a74e66242fcdd4abc8d24cbe5f73a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2d35e65ef409c318896c90806ef368706b154f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Challenge_4_Video_Game_CRUD_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Challenge_4_Video_Game_CRUD_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
